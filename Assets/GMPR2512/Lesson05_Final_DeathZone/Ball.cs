@@ -13,6 +13,7 @@ namespace GMPR2512.Lesson05_Final_DeathZone
             if (_rb == null)
             {
                 Debug.LogError("Ball class requires a RigidBody2D on the same GameObject.");
+                
             }
         }
         // Update is called once per frame
