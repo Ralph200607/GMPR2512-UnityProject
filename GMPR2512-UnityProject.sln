@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{74F5A1C4-6AF1-571A-C9CF-8152A0DB5ED0}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMPR2512.Lesson05", "GMPR2512.Lesson05.csproj", "{5260B846-188D-452B-60DB-3013FA4A9DE5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMPR2512.Lesson04", "GMPR2512.Lesson04.csproj", "{FF6A201C-C64F-4924-D0DE-CF003CF489E5}"
@@ -13,6 +15,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F5A1C4-6AF1-571A-C9CF-8152A0DB5ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F5A1C4-6AF1-571A-C9CF-8152A0DB5ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F5A1C4-6AF1-571A-C9CF-8152A0DB5ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F5A1C4-6AF1-571A-C9CF-8152A0DB5ED0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5260B846-188D-452B-60DB-3013FA4A9DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5260B846-188D-452B-60DB-3013FA4A9DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5260B846-188D-452B-60DB-3013FA4A9DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
