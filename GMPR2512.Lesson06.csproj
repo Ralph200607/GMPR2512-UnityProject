@@ -48,6 +48,7 @@
     <Analyzer Include="C:\Users\rjlin\Desktop\6000.0.57f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\GMPR2512\Lesson06_Bumper\Bumper.cs" />
     <Compile Include="Assets\GMPR2512\Lesson06_Bumper\Ball.cs" />
   </ItemGroup>
   <ItemGroup>
